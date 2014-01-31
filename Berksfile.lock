@@ -1,12 +1,12 @@
 {
   "sources": {
-    "ruby": {
-      "path": "./cookbooks/ruby"
-    },
     "rbenv": {
       "locked_version": "1.7.1",
       "git": "git://github.com/RiotGames/rbenv-cookbook.git",
       "ref": "00e50cb62f9ec4d825c6c516256bc381c7fa2e61"
+    },
+    "rails": {
+      "path": "./cookbooks/rails"
     },
     "git": {
       "locked_version": "2.9.0"
